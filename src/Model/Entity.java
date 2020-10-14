@@ -1,5 +1,6 @@
 package Model;
 
-public class Entity {
-
+public class Entity 
+{
+ 
 }
